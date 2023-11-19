@@ -1,8 +1,8 @@
-print('Enter number x: ')
-x = int(input())
+print('Enter number num1: ')
+num1 = int(input())
 
-print('Enter number y: ')
-y = int(input())
+print('Enter number num2: ')
+num2 = int(input())
 
-print('x * y = ', x*y)
-print('x / y = ', x/y)
+print('num1 * num2 = ', num1*num2)
+print('num1 / num2 = ', num1/num2)
